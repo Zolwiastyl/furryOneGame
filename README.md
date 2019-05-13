@@ -1,2 +1,0 @@
-# furryOneGame
-Created with CodeSandbox
